@@ -27,6 +27,7 @@
                  VerticalAlignment="Center" 
                  HorizontalAlignment="Center" 
                  FontSize="36" 
+                 MouseDown="TextBlock_MouseDown" 
          />
         <TextBlock
                  Grid.Column="0" 
@@ -35,6 +36,7 @@
                  VerticalAlignment="Center" 
                  HorizontalAlignment="Center" 
                  FontSize="36"
+          MouseDown="TextBlock_MouseDown"  
          />
         <TextBlock
                  Grid.Column="0" 
@@ -43,6 +45,7 @@
                  VerticalAlignment="Center" 
                  HorizontalAlignment="Center" 
                  FontSize="36"
+          MouseDown="TextBlock_MouseDown"  
          />
         <TextBlock
                  Grid.Column="0" 
@@ -51,6 +54,7 @@
                  VerticalAlignment="Center" 
                  HorizontalAlignment="Center" 
                  FontSize="36"
+          MouseDown="TextBlock_MouseDown"  
          />
         <TextBlock
                  Grid.Column="1" 
@@ -59,6 +63,7 @@
                  VerticalAlignment="Center" 
                  HorizontalAlignment="Center" 
                  FontSize="36"
+          MouseDown="TextBlock_MouseDown"  
          />
         <TextBlock
                  Grid.Column="1" 
@@ -67,6 +72,7 @@
                  VerticalAlignment="Center" 
                  HorizontalAlignment="Center" 
                  FontSize="36"
+          MouseDown="TextBlock_MouseDown"  
          />
         <TextBlock
                  Grid.Column="1" 
@@ -75,6 +81,7 @@
                  VerticalAlignment="Center" 
                  HorizontalAlignment="Center" 
                  FontSize="36"
+          MouseDown="TextBlock_MouseDown"  
          />
         <TextBlock
                  Grid.Column="1" 
@@ -83,6 +90,7 @@
                  VerticalAlignment="Center" 
                  HorizontalAlignment="Center" 
                  FontSize="36"
+          MouseDown="TextBlock_MouseDown"  
          />
         <TextBlock
                  Grid.Column="2" 
@@ -91,6 +99,7 @@
                  VerticalAlignment="Center" 
                  HorizontalAlignment="Center" 
                  FontSize="36"
+          MouseDown="TextBlock_MouseDown" 
          />
         <TextBlock
                  Grid.Column="2" 
@@ -99,6 +108,7 @@
                  VerticalAlignment="Center" 
                  HorizontalAlignment="Center" 
                  FontSize="36"
+          MouseDown="TextBlock_MouseDown"  
          />
         <TextBlock
                  Grid.Column="2" 
@@ -107,6 +117,7 @@
                  VerticalAlignment="Center" 
                  HorizontalAlignment="Center" 
                  FontSize="36"
+          MouseDown="TextBlock_MouseDown"  
          />
         <TextBlock
                  Grid.Column="2" 
@@ -115,6 +126,7 @@
                  VerticalAlignment="Center" 
                  HorizontalAlignment="Center" 
                  FontSize="36"
+          MouseDown="TextBlock_MouseDown"  
          />
         <TextBlock
                  Grid.Column="3" 
@@ -123,6 +135,7 @@
                  VerticalAlignment="Center" 
                  HorizontalAlignment="Center" 
                  FontSize="36"
+          MouseDown="TextBlock_MouseDown"  
          />
         <TextBlock
                  Grid.Column="3" 
@@ -131,6 +144,7 @@
                  VerticalAlignment="Center" 
                  HorizontalAlignment="Center" 
                  FontSize="36"
+          MouseDown="TextBlock_MouseDown"  
          />
         <TextBlock
                  Grid.Column="3" 
@@ -139,6 +153,7 @@
                  VerticalAlignment="Center" 
                  HorizontalAlignment="Center" 
                  FontSize="36"
+          MouseDown="TextBlock_MouseDown"  
          />
         <TextBlock
                  Grid.Column="3" 
@@ -147,6 +162,7 @@
                  VerticalAlignment="Center" 
                  HorizontalAlignment="Center" 
                  FontSize="36"
+          MouseDown="TextBlock_MouseDown"  
          />
     </Grid>
 </Window>

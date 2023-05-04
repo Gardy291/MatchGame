@@ -164,5 +164,6 @@
                  FontSize="36"
           MouseDown="TextBlock_MouseDown"  
          />
+        <TextBlock x:Name="timeTextBlock" HorizontalAlignment="Center" Margin="0" Grid.Row="4" TextWrapping="Wrap" Text="Elapse Time" VerticalAlignment="Center" Grid.ColumnSpan="4" FontSize="36" MouseDown="TimeTextBlock_MouseDown"/>
     </Grid>
 </Window>
